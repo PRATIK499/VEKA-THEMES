@@ -1,0 +1,349 @@
+#p2{font-size:1.5em;}
+#H1{font-size:5em;
+}
+#H2{font-size:1.5em;
+}
+#p1,#p2{text-align:center;
+margin:40px 0 20px 0;
+font-family:'Roboto', sans-serif;}
+//*********header***********************************//
+
+
+
+#p1{font-family:'Roboto', sans-serif;
+text-align:center;
+margin:0 300px 0 300px;}
+
+.H5{border-top:8px solid black;
+  
+  border-bottom:8px solid black;
+
+text-align:center;
+  font-family: 'PT Sans', sans-serif;
+  color:#000;
+  background-color:white;
+background:url('c3-1446x970.jpg') no-repeat center;
+//**background:url('golden-gate-bridge-690264_960_720.jpg') no-repeat center;****//
+
+background-size:cover;
+padding:200px 0 200px 0;
+
+ margin:0;
+}
+
+.H6{border-top:8px solid black;
+  
+  border-bottom:8px solid black;
+
+text-align:center;
+  font-family: 'PT Sans', sans-serif;
+  color:#000;
+  background-color:white;
+
+background:url('dries_landscape1-1455x970.jpg') no-repeat center;
+
+background-size:cover;
+padding:200px 0 200px 0;
+
+ margin:0;
+}
+
+
+.H7{border-top:8px solid black;
+  
+  border-bottom:8px solid black;
+
+text-align:center;
+  font-family: 'PT Sans', sans-serif;
+  color:#000;
+  background-color:white;
+
+background:url('Grundtvigs-Church_landscape1.jpg') no-repeat center;
+
+background-size:cover;
+padding:200px 0 200px 0;
+
+ margin:0;
+}
+
+.H8{border-top:8px solid black;
+  
+  border-bottom:8px solid black;
+
+text-align:center;
+  font-family: 'PT Sans', sans-serif;
+  color:#fff;
+  background-color:white;
+
+background:url('9dd09__village2.jpg') no-repeat center;
+
+background-size:cover;
+padding:200px 0 200px 0;
+
+ margin:0;
+}
+
+.H9{border-top:8px solid black;
+  
+  border-bottom:8px solid black;
+
+text-align:center;
+  font-family: 'PT Sans', sans-serif;
+  color:#000;
+  background-color:white;
+
+background:url('Summer-2015-1032x663.jpg') no-repeat center;
+
+background-size:cover;
+padding:200px 0 200px 0;
+
+ margin:0;
+}
+
+.H10{border-top:8px solid black;
+  
+  border-bottom:8px solid black;
+
+text-align:center;
+  font-family: 'PT Sans', sans-serif;
+  color:#000;
+  background-color:white;
+
+background:url('peterjoseph_landscape1-1455x970.jpg') no-repeat center;
+
+background-size:cover;
+padding:200px 0 200px 0;
+
+ margin:0;
+}
+
+.H11{border-top:8px solid black;
+  
+  border-bottom:8px solid black;
+
+text-align:center;
+  font-family: 'PT Sans', sans-serif;
+  color:#000;
+  background-color:white;
+
+background:url('Autumn-2015-1455x935.jpg') no-repeat center;
+
+background-size:cover;
+padding:200px 0 200px 0;
+
+ margin:0;
+}
+
+
+.H12{border-top:8px solid black;
+  
+  border-bottom:8px solid black;
+
+text-align:center;
+  font-family: 'PT Sans', sans-serif;
+  color:#fff;
+  background-color:white;
+
+background:url('maxresdefault.jpg') no-repeat center;
+
+background-size:cover;
+padding:200px 0 200px 0;
+
+ margin:0;
+}
+
+.H13{border-top:8px solid black;
+  
+  border-bottom:8px solid black;
+
+text-align:center;
+  font-family: 'PT Sans', sans-serif;
+  color:#fff;
+  background-color:white;
+
+background:url('SAM_0358-Edit-2.jpg') no-repeat center;
+
+background-size:cover;
+padding:10px 0 200px 0;
+
+ margin:0;
+}
+
+
+
+.logo{width:150px;
+}
+.logo1{width:25px;
+float:right;
+margin:20px 20px;}
+
+.b{background-color: white  ;
+}
+.order{display:inline;
+text-align:left;
+margin 0 0 0 0;}
+div{font-size:2em;}
+#logo{width:200px;}
+
+
+/****footer*****************************/
+
+
+footer{text-align:center;
+  margin:100px;
+}
+#p2{font-size=2em;
+text-align:center;}
+
+img{width:100%;
+height:100%;}
+
+.photos{ margin:0;
+display:inline-block;
+  padding:2.5%;
+list-style-type:none
+ max-width:100%;
+}
+.photos li{
+  
+ width:40%;
+ max-width:100%; 
+margin:2.5%  5% ;
+
+  height:100%;
+  list-style-type:none;
+  float:left
+}
+.photos a{list-style:none;}
+
+.p5{font-family: 'Slabo 27px', serif; 
+list-style-type:none;
+
+}
+
+
+.p1 li{height:700px;}
+.p3{border-radius:5%;
+}
+
+.p10{border-radius:5%;
+  list-style:none;
+ margin:0;
+display:inline-block;
+  padding:2.5%;
+list-style-type:none
+ max-width:100%;
+
+}
+ .p10 li{float:center;
+width:200px;
+ max-width:100%; 
+margin:2.5%  5% ;
+
+  height:200px;
+  list-style-type:none;
+ 
+}
+
+
+.p3 {list-style:none;
+}
+.p4{ border-radius:5%;
+  margin:2.5% 10%;
+width:80%;}
+
+
+//////****cereal****//////
+{background:url('vol5_palaisdetokyo_landscape3-1455x970.jpg') no-repeat center;}
+
+.farm{width:800px;
+
+list-style:none;
+
+  border-radius:100%;
+margin:0 0 0 225px;}
+
+.farm li{}
+
+.p5 {
+list-style:none;
+}
+.p6{text-align:right;
+margin:0 200px 0 0;
+font-family: 'Slabo 27px', serif;
+}
+
+.p7{
+margin:0 0 0 0;
+font-family: 'Slabo 27px', serif;
+}
+.i1{font-size:1em;
+text-align:center;
+text-decoration:none;
+}
+
+.i2{font-size:1em;
+text-align:center;
+list-style:none;}
+.i3{font-size:1em;
+text-align:center;
+list-style:none;}
+
+.i4{font-size:1em;
+text-align:center;
+list-style:none;}
+
+.i5{font-size:1em;
+text-align:center;
+list-style:none;}
+
+.i6{font-size:1em;
+text-align:center;
+list-style:none;}
+
+.i7{font-size:1em;
+text-align:center;
+list-style:none;}
+
+.i8{font-size:1em;
+text-align:center;
+list-style:none;}
+
+.i9{font-size:1em;
+text-align:center;
+list-style:none;}
+
+
+.i15{
+text-align:center;
+list-style:none;}
+
+
+
+
+
+
+/* ================================= 
+  Button Transitions
+==================================== */
+
+.button {padding: 10px 60px;
+	color: #fff;
+	background:  #d36a62;;
+	transition-duration: .4s;
+	transition-property: background;
+font-family:'Roboto', sans-serif;
+margin:10px;
+ box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);}
+
+.button:hover {
+	background: #a33830;
+}
+
+.button:active {
+	background:
+}
+
+/* ================================= 
+  Photo Overlay Transitions
+==================================== */
